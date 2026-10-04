@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import {
   Users, BookOpen, ClipboardList, TrendingUp, Brain, Server, Database,
-  ArrowRight, UserPlus, Sparkles, ShieldCheck,
+  ArrowRight, UserPlus, Sparkles, ShieldCheck, Award,
   Check, X, RefreshCw, Calendar, Clock, MapPin, Search, Trash2, FileText
 } from 'lucide-react';
 import Sidebar from '../../components/Sidebar';
